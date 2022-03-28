@@ -51,14 +51,14 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Jiang jiwen and I'm now an undergraduate studying geoengineering with a computer minor in Nanjing University (NJU), China.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
+  #- title: Projects # Title for the section
+    #layout: list # Type of content section (list/text)
+    #content:
+      #- layout: top-middle
         #title: Super awesome project
         #link: github.com/sproogen
         # link_text: Project Website
-        additional_links:
+        #additional_links:
           #- title:  sproogen/modern-resume-theme
           #  icon: fab fa-github
           #  url: github.com/sproogen/modern-resume-theme

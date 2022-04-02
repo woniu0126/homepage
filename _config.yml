@@ -1,20 +1,5 @@
 # Site
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
 
-  
-include:
-  - CONTRIBUTING.md
-  - README.md
-  - LICENSE.md
-  - COPYING.md
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - ISSUE_TEMPLATE.md
-  - PULL_REQUEST_TEMPLATE.md
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
@@ -110,7 +95,7 @@ content:
         quote: >
           Founded in 1902, Nanjing University is one of the oldest and most prestigious institutions of higher learning in China. With the motto of ‘Sincerity with Aspiration, Perseverance and Integrity,’ this university carries the spirit of constant striving for educational and academic excellence.
         description: | # this will include new lines to allow paragraphs
-          During my time at NJU I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. Here are the [courses](_posts/1.md) that I learnt in NJU
+          During my time at NJU I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. Here are the [courses](_posts/2022-4-2-course.md) that I learnt in NJU
 
   - title: A Little More About Me
     layout: text
@@ -135,3 +120,17 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+ - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+
+include:
+  - CONTRIBUTING.md
+  - README.md
+  - LICENSE.md
+  - COPYING.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - ISSUE_TEMPLATE.md
+  - PULL_REQUEST_TEMPLATE.md

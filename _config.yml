@@ -49,7 +49,7 @@ github_username:  woniu0126
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Jiang Jiwen and I'm now an undergraduate studying geoengineering with a computer minor in Nanjing University (NJU), China.<a name="about-me"></a>
+  Hi, my name's Jiang Jiwen and I'm now an undergraduate studying geoengineering with a computer minor in Nanjing University (NJU), China.<a name="about-me">fdsfdsf</a>
 
 content:
  # - title: Projects # Title for the section

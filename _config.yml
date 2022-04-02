@@ -98,7 +98,7 @@ content:
         description: |
           During my time at NJU I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. Here is the [courses](courses.html)
 
-      - layout: list
+      - layout: left
         sub_title: course I learnt in NJU
         description: |
           During my degree at Bristol University I learnt lots of key skills such as team work and project management. Although

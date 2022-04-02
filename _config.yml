@@ -44,7 +44,10 @@ github_username:  woniu0126
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
 # google_analytics: "UA-00000000-0"
-
+additional_links:
+- title: courses I learnt
+  icon: fas fa-globe
+  url: ./courses.html
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg

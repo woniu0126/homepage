@@ -1,11 +1,14 @@
 # Site
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
+<<<<<<< HEAD
 plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
   collections: true
+=======
+>>>>>>> 0c1d80741d2f58bf7dd98abeda68891317b15339
 # Content configuration version
 version: 2
 

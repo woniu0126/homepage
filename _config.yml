@@ -44,10 +44,7 @@ github_username:  woniu0126
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
 # google_analytics: "UA-00000000-0"
-additional_links:
-- title: courses I learnt
-  icon: fas fa-globe
-  url: ./courses.html
+#
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
@@ -100,7 +97,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           During my time at NJU I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. Here is the [courses](courses.html)
 
-  - title: A Little More About Me
+  - title: A Little More About Me[about me](#about me)
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in computer science and geology some of my other interests and hobbies are:

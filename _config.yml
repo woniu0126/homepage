@@ -101,7 +101,7 @@ content:
       - layout: left
         sub_title: course I learnt in NJU
         description: |
-         I found a (website)[https://woniu0126.github.io/Blog_more/] to share and record my cs learning, you are welcome to come around.
+         I found a (website)(https://woniu0126.github.io/Blog_more/) to share and record my cs learning, you are welcome to come around.
 
 
   - title: A Little More About Me
